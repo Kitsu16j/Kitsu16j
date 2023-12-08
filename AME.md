@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ahri
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning C++ and viruses
