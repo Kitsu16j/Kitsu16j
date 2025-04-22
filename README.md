@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Felix. I am Founder & Owner of [Kitsune](https://kitsu.pl)
+My name is Lily. I am Founder & Owner of [Kitsune](https://kitsu.pl)
 .
 
 I’m currently working on;
